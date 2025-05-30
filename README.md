@@ -19,4 +19,5 @@ the-doll-emporium/
 │   └── style.css
 ## 📸 Screenshots
 ![Image](https://github.com/user-attachments/assets/69c879a3-1dd2-4fd2-a8e1-d0b006cafe94)
+![Image](https://github.com/user-attachments/assets/e25938c1-2cf7-4ffc-82d5-ac2333cdce6e)
 
